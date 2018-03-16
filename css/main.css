@@ -1,0 +1,67 @@
+html, body {
+  width: 1280px;
+  height: 800px;
+}
+
+.container {
+
+}
+
+.topbar {
+  position: relative;
+  background-color: #FB7E01;
+  height: 115px;
+  width: 100%;
+  display: inline-block;
+
+}
+
+.logo {
+  display: inline-block;
+  position: absolute;
+  left: 7.5%;
+}
+
+nav {
+  display: inline-block;
+  padding-left: 36.5%;
+  height: 115px;
+  line-height: 115px;
+
+
+}
+
+
+a {
+  font-family: 'Montserrat', sans-serif;
+  color: #f0f0f0;
+  font-weight: 100;
+  display: inline-block;
+  letter-spacing: 3px;
+  text-decoration: none;
+  font-size: 17.2px;
+  padding-left: 32px;
+
+}
+
+input {
+  display: inline-block;
+}
+
+.fa-search {
+  display: inline-block;
+  position: relative;
+
+}
+
+.orange {
+  display: inline-block;
+  float: left;
+}
+
+
+
+/* input[type='search'] {
+  background: url(img/search-icon.png) no-repeat scroll 7px 7px;
+padding-left:30px;
+} */
